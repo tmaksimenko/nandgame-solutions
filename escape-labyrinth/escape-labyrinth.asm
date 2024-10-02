@@ -2,7 +2,7 @@
 # This solution was made in its entirety by Tim Maksimenko
 # --
 # This program solves the "Escape Labyrinth" level of NandGame.
-# The problem statement can be found in the file escape-labyrinth-problem.txt
+# The problem statement can be found in the file escape-labyrinth-problem.md
 ###
 
 # Defined constants
