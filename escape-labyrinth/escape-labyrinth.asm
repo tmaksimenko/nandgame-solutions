@@ -1,3 +1,10 @@
+###
+# This solution was made in its entirety by Tim Maksimenko
+# --
+# This program solves the "Escape Labyrinth" level of NandGame.
+# The problem statement can be found in the file escape-labyrinth-problem.txt
+###
+
 # Defined constants
 DEFINE io 0x7fff
 DEFINE xaddr 0
