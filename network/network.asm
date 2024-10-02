@@ -1,7 +1,7 @@
 ###
 # This solution was made in its entirety by Tim Maksimenko
 # --
-# This program solves the "Network" level of NandGame.
+# This program solves the "Network" level of NandGame (Software/Low Level/Network).
 # The problem statement can be found in the file network-problem.md
 # -- 
 # Note that this was completed without the use of stack-operation macros.
