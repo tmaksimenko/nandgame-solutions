@@ -1,4 +1,14 @@
-# Assembler code 
+###
+# This solution was made in its entirety by Tim Maksimenko
+# --
+# This program solves the "Network" level of NandGame.
+# The problem statement can be found in the file network-problem.md
+# -- 
+# Note that this was completed without the use of stack-operation macros.
+# Therefore, some repetitive operations were hardcoded.
+###
+
+# Defined constants
 DEFINE inaddr 0x6001
 DEFINE cdata 1
 DEFINE csync 2
