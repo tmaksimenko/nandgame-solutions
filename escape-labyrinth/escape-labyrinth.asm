@@ -1,7 +1,7 @@
 ###
 # This solution was made in its entirety by Tim Maksimenko
 # --
-# This program solves the "Escape Labyrinth" level of NandGame.
+# This program solves the "Escape Labyrinth" level of NandGame (Software/Low Level/Escape Labyrinth).
 # The problem statement can be found in the file escape-labyrinth-problem.md
 ###
 
